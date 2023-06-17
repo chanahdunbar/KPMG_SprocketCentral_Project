@@ -10,6 +10,7 @@ The first task was to conduct a data quality assessment on the provided data rec
 - Completeness
 - Duplication
 - Consistency
+
 And drafted an email to the Sprocket Central that would be using and making decisions based off of the analyzed data. The email include details about the quality evaluation as well as recommendations of how to avoid the issues in the future.
 
 ## Data Exploration
